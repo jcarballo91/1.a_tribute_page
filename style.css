@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.main{
+    margin: 20px;
+    text-align:center;
+}
+
+#title{
+    margin: 20px;
+    background-color:rgb(226, 226, 226);
+    font-family: Century, Arial, Helvetica;
+}
+
+#tribute-info{
+    font-family: Century, Arial, Helvetica;
+}
+
+#timeline{
+    text-align: left;
+    font-family: Century,Arial, Helvetica;
+}
